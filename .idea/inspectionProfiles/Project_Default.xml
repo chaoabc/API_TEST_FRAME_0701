@@ -1,0 +1,39 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="demo_01.work_03.ist_c" />
+          <option value="day_06.demo_02.age" />
+          <option value="day_06.demo_02.self" />
+          <option value="day_06.demo_02.name" />
+          <option value="day_06.demo_02.teach_book" />
+          <option value="python_0301.day_05.learn_04.other" />
+          <option value="python_0301.day_05.learn_04.cartype" />
+          <option value="python_0301.day_05.learn_04.speed" />
+          <option value="read_excel.excel_make_data.case_id" />
+          <option value="read_excel.work_01.all_case_info01" />
+          <option value="read_excel.work_01.case_info01" />
+          <option value="BY" />
+          <option value="By" />
+          <option value="test_day_01.demo_03.take_screenshot" />
+          <option value="test_day_01.demo_06.handles" />
+          <option value="idlelib.browser.page_source.encode" />
+          <option value="test_day_02.unitest_01.*" />
+          <option value="run_test.UTF" />
+          <option value="common.login.UTF" />
+          <option value="requests_toolbelt" />
+          <option value="run_all_cases.HTMLTestRunner" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
